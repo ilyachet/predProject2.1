@@ -1,6 +1,6 @@
 import java.io.Serializable;
 
-public class Cat implements Serializable {
+public class Cat {
     private String name;
 
     public String getName() {
